@@ -365,7 +365,6 @@ input, select, textarea {
 
 		h1.major {
 			margin: 0 0 2.625rem 0;
-			background-color: rgba(102, 102, 102, 0.25)
 		}
 
 			h1.major:after {
