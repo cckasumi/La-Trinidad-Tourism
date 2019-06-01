@@ -364,8 +364,8 @@ input, select, textarea {
 	}
 
 		h1.major {
+			background-color: rgba(255, 255, 255, 0.25)
 			margin: 0 0 2.625rem 0;
-			background-color: rgba(102, 102, 102, 0.25)
 		}
 
 			h1.major:after {
@@ -1043,6 +1043,9 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5rem;
+		}
+		ul li.test {
+			list-style-image:url("../../images/test.png");
 		}
 
 		ul.alt {

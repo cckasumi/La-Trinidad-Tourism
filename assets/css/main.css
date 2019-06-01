@@ -1036,13 +1036,36 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
 		margin: 0 0 1.5rem 0;
-		padding-left: 1rem;
+		padding-left: 1.5rem;
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 0.2rem;
+		}
+		ul li.strawberryfarmicon {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
+		}
+		ul li.test {
+			list-style-image:url("../../images/strawberryfarmicon.png");
 		}
 
 		ul.alt {
